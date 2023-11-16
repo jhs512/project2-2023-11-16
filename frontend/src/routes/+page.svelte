@@ -1,1 +1,1 @@
-메인
+<div class="text-red-600">내용</div>
