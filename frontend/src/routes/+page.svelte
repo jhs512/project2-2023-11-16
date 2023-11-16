@@ -1,1 +1,1 @@
-<div class="text-red-600">내용</div>
+<button class="btn btn-primary">버튼</button>
